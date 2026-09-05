@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Granny's Tales</title>
+<meta name="description" content="World folktales to read, hear, and keep — in English and their original languages.">
+<meta name="theme-color" content="#2b1d16">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Granny's Tales">
+<link rel="stylesheet" href="styles.css">
+<script defer src="app.js"></script>
+</head>
+<body>
+<div id="app">
+  <header class="topbar">
+    <button class="brand" id="brandBtn" aria-label="Granny's Tales home">
+      <span class="brand-mark" aria-hidden="true">📖</span>
+      <span class="brand-text"><strong>Granny's Tales</strong><small id="tagline">Stories from every corner of the world</small></span>
+    </button>
+    <div class="topbar-actions">
+      <div class="lang-toggle" role="group" aria-label="Interface language">
+        <button data-ui-lang="en" class="on">EN</button><button data-ui-lang="es">ES</button><button data-ui-lang="fr">FR</button>
+      </div>
+      <div id="authArea"></div>
+    </div>
+  </header>
+
+  <main id="homeScreen" class="screen">
+    <div class="toolbar">
+      <input id="searchInput" type="search" autocomplete="off" aria-label="Search tales">
+      <div id="filterChips" class="chips" role="tablist" aria-label="Filters"></div>
+    </div>
+    <div id="syncNotice" class="notice hidden"></div>
+    <div id="grid" class="grid"></div>
+    <p id="emptyMsg" class="empty hidden"></p>
+  </main>
+
+  <main id="libraryScreen" class="screen hidden">
+    <div class="screen-head">
+      <button class="back-btn" id="libraryBack">‹</button>
+      <h2 id="libraryTitle">My recordings</h2>
+    </div>
+    <p id="libraryHint" class="hint"></p>
+    <div id="libraryList" class="library-list"></div>
+  </main>
+
+  <div id="sheetWrap" class="sheet-wrap hidden" role="dialog" aria-modal="true">
+    <div class="sheet" id="sheet"></div>
+  </div>
+
+  <div id="authModal" class="modal-wrap hidden" role="dialog" aria-modal="true">
+    <div class="modal" id="authBox"></div>
+  </div>
+
+  <div id="profileWrap" class="modal-wrap hidden" role="dialog" aria-modal="true">
+    <div class="modal" id="profileBox"></div>
+  </div>
+
+  <div id="toast" class="toast hidden" role="status"></div>
+</div>
+</body>
+</html>
