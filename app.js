@@ -369,7 +369,7 @@ async function loadRecordings() {
 }
 
 /* ---------------- Home: grid, filters, search ---------------- */
-const REGIONS = ['African', 'East Asian', 'European', 'Indigenous American', 'Indigenous Arctic', 'Latin American', 'Middle Eastern', 'Pacific', 'South Asian'];
+const REGIONS = ['African', 'East Asian', 'South Asian', 'Southeast Asian', 'Middle Eastern', 'Central Asian', 'European', 'Latin American', 'Indigenous American', 'Indigenous Arctic', 'Pacific'];
 function renderFilters() {
   const c = $('#filterChips');
   const chips = [`<button class="chip${state.filter === 'all' ? ' on' : ''}" data-f="all">${esc(t('all'))}</button>`]
