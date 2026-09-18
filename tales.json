@@ -1326,7 +1326,7 @@
   "region": "European",
   "attribution": "Czech · Božena Němcová tale",
   "subtitle": "a Czech winter tale about kindness, patience, and the turning year",
-  "moral": "",
+  "moral": "Granny’s whisper: Kindness is never wasted — the months themselves remember.",
   "image": "assets/twelve-months.webp",
   "languages": [
    "en"
@@ -1347,7 +1347,7 @@
   "region": "European",
   "attribution": "Italy · Abruzzese traditional tale",
   "subtitle": "an Italian tale about patience, promises, and love that finds its way back",
-  "moral": "",
+  "moral": "Granny’s whisper: Keep faith with those you love, and love will keep faith with you.",
   "image": "assets/three-pomegranates.webp",
   "languages": [
    "en"
@@ -1368,7 +1368,7 @@
   "region": "Southeast Asian",
   "attribution": "Malaysia · Malay hikayat trickster tale",
   "subtitle": "a Malaysian trickster tale about how the smallest animal outwits the biggest teeth",
-  "moral": "",
+  "moral": "Granny’s whisper: A quick mind is a fine thing — use it kindly.",
   "image": "assets/sang-kancil.webp",
   "languages": [
    "en"
@@ -1389,7 +1389,7 @@
   "region": "European",
   "attribution": "Lithuania · ancient Baltic legend",
   "subtitle": "a Lithuanian legend of promises, the sea, and love that turns into trees",
-  "moral": "",
+  "moral": "Granny’s whisper: A mother’s love outlasts even the deepest sorrow.",
   "image": "assets/egle-serpents.webp",
   "languages": [
    "en"
@@ -1410,7 +1410,7 @@
   "region": "Latin American",
   "attribution": "Chiloé, Chile · Chilote sea legend",
   "subtitle": "a Chilote legend about the spirit who dances the sea's abundance ashore",
-  "moral": "",
+  "moral": "Granny’s whisper: Dance with a generous heart, and the sea will dance with you.",
   "image": "assets/la-pincoya.webp",
   "languages": [
    "en"
@@ -1529,5 +1529,110 @@
   "alternate_language_code": null,
   "alternate_note": null,
   "script_original_note": null
+ },
+ {
+  "id": "llyn-y-fan-fach",
+  "title": "The Lady of Llyn y Fan Fach",
+  "region": "Wales",
+  "attribution": "Wales · Welsh legend",
+  "subtitle": "a Welsh legend of a lake maiden, three promises, and the healers of Myddfai",
+  "moral": "Granny’s whisper: Keep your promises the way you would keep a treasure.",
+  "image": "assets/llyn-y-fan-fach.webp",
+  "languages": [
+   "en"
+  ],
+  "script_en": "High in the Black Mountains of Wales lies a lonely lake called Llyn y Fan Fach — the little lake of the peak. Its waters are dark and still, and on quiet evenings the mist drifts over them like slow breath.\n\nLong ago, a young farmer named Gwyn drove his cows up the mountain each morning. One summer day, as the sun burned the mist away, a maiden rose from the still water — the loveliest creature he had ever seen, with long dark hair and a gown that shimmered like lake-light.\n\nShyly, Gwyn held out the loaf he had brought for his dinner. The maiden shook her head. “Your bread is burnt,” she said, in a voice like water over stones, and sank from sight. The next morning he brought another loaf — “doughy and raw,” she said. But on the third morning his loaf was golden and perfect, and she took it from his hand and smiled.\n\nThen her father, an old man, rose from the lake beside her. “You may marry my daughter,” he said, “but hear my one condition. If ever you strike her three blows without cause, she must leave you and return to me beneath the water.” Gwyn swore he would sooner lose his own right hand than raise it against her.\n\nThe lady counted her wedding gifts by fives, as her people do — and as she counted, sheep, cattle, goats, pigs, and horses rose from the lake and ranged themselves on the shore. Down the mountain the wedding party walked to the farm of Esgair Llaethdy, and Gwyn and his lady were happy beyond measure. She was kind to every poor traveler and knew all the healing herbs of the mountain, so sick folk came from miles around and went home well. Three sons were born to them, and the years slipped by like water.\n\nBut promises are fragile things, and Gwyn grew forgetful. At a christening feast his wife wept softly at the music, and Gwyn, meaning no harm, tapped her shoulder to hush her. “Remember our vow,” she said sorrowfully. “That was the first causeless blow.” Years later, at a wedding, she laughed aloud with joy and he nudged her to be quiet — the second blow. And at a funeral long after, when she laughed through her tears, he gave her a small impatient pat and said, “Hush!” It was only a pat, but it was the third.\n\nThe lady sighed a deep sigh. She called her cattle, and they came — even the oxen from the plough, dragging it behind them and cutting a long furrow across the fields to the water’s edge. One by one the beasts walked into the lake and vanished, and the Lady of Llyn y Fan Fach was gone.\n\nBut she did not forget her sons. She met the three boys in the valley of Cwm Meddygon and gave them a small box of wonderful remedies, and they grew up to be the Physicians of Myddfai — the most famous healers Wales has ever known, whose book of cures is treasured to this day. And on still evenings, the people of the valley say, if you look into the dark water of the little lake, you can see her face looking back.",
+  "script_original": null,
+  "original_language_name": null,
+  "alternate_title": "Llyn y Fan Fach",
+  "script_alternate": "Llyn y Fan Fach\n\nOriginal English retelling after “The Lady of Llyn y Fan Fach,” the Welsh lake-maiden legend recorded in Wirt Sikes’s British Goblins (1880) and Joseph Jacobs’s More Celtic Fairy Tales (1894). The Llyn y Fan Fach title is the genuine Welsh title; this retelling is presented in English rather than offering an unverified Welsh translation. A full Welsh text has not been invented.\n\nOriginal English retelling after “The Lady of Llyn y Fan Fach,” the Welsh lake-maiden legend recorded in Wirt Sikes’s British Goblins (1880) and Joseph Jacobs’s More Celtic Fairy Tales (1894). A full Welsh text has not been invented.",
+  "alternate_language_name": "English",
+  "alternate_language_code": "en",
+  "alternate_note": "Original Welsh title shown; English retelling as published (‘Welsh title · English telling’)",
+  "script_original_note": "This Welsh legend is presented in English only. No Welsh text has been invented; the genuine Welsh title is shown above."
+ },
+ {
+  "id": "kind-giver",
+  "title": "The Kind Giver and the Grudging Giver",
+  "region": "Hokkaidō",
+  "attribution": "Hokkaido · Ainu tale",
+  "subtitle": "an Ainu tale about a raven, two little puppies, and the heart behind a gift",
+  "moral": "Granny’s whisper: The gods weigh the heart that gives, not only the gift.",
+  "image": "assets/kind-giver.webp",
+  "languages": [
+   "en"
+  ],
+  "script_en": "Long ago, on the northern island of Hokkaido, where the rivers run cold and clear, there lived a fisherman who set his net across the river every dawn. He was not a rich man, but he was a kind one — and kindness, as the old Ainu say, is a kind of wealth.\n\nOne morning a great raven settled on the rocks beside him, watching the shining fish with hungry eyes. The fisherman felt pity. He chose a fine fish, washed it clean in the river water, and tossed it to the raven. The bird ate with joy and flew away calling, as if to say thank you.\n\nThe next day the raven came again — and this time it spoke in a human voice. “I am the daughter of the divine old man of the hills,” she said. “You fed me with good fish and a good heart. Come with me, and let my old father thank you himself.”\n\nThe raven flew, and the fisherman followed on foot, over hills and through deep woods, until they came to a great house he had never seen. Inside, the raven shook her feathers and became a beautiful maiden. Her father and mother — a divine old man and a divine old woman — welcomed the fisherman as an honored guest.\n\n“You fed my daughter with good fish,” said the old man. “I will reward you — not with gold, which is a cold and heavy thing, but with these.” And he gave the fisherman two tiny puppies: one all of gold, and one all of silver. “Feed them a little good food at a time,” he warned, “and see what comes of it.”\n\nThe fisherman did exactly as he was told. Each day he fed the puppies a little good food — and each day the gold puppy left droppings of pure gold, and the silver puppy droppings of pure silver. The fisherman sold the precious metal and grew comfortably rich. And he never forgot the raven, nor the old man’s kindness, nor the value of a generous heart.\n\nNow the fisherman had a neighbor, a grudging, greedy fellow, who heard the story and thought, “I can do that too — and better!” He set his own net, and when the raven came, he smeared a fish with mud and flung it at her carelessly. “Take that,” he muttered.\n\nThe raven led him to the great house all the same. The old man frowned to hear of the muddy fish, but he gave the greedy man two puppies too — one of gold, one of silver — with the same warning: feed them a little good food at a time.\n\nBut the greedy man laughed at the warning. “A little food? Then I shall get only a little gold!” He stuffed the puppies morning and night with rich scraps and dirty leavings. And what did they give him? No gold. No silver. Only plain, smelly dung — more and more of it, until his whole house was full of nothing but dung.\n\nThe kind fisherman, meanwhile, fed his puppies a little good food at a time, and they gave him gold and silver all his days. For the gods do not only weigh what we give — they weigh the heart that gives it.",
+  "script_original": null,
+  "original_language_name": null,
+  "alternate_title": null,
+  "script_alternate": null,
+  "alternate_language_name": null,
+  "alternate_language_code": null,
+  "alternate_note": null,
+  "script_original_note": null
+ },
+ {
+  "id": "grateful-animals",
+  "title": "The Grateful Animals and the Ungrateful Man",
+  "region": "Tibet",
+  "attribution": "Tibet · Tibetan tale",
+  "subtitle": "a Tibetan tale of a hunter, a deep pit, and friends who never forget",
+  "moral": "Granny’s whisper: Kindness given is never lost — the grateful remember.",
+  "image": "assets/grateful-animals.webp",
+  "languages": [
+   "en"
+  ],
+  "script_en": "In long-past times, when King Brahmadatta ruled in the city of Varanasi, a poor woodcutter went into the forest with his axe and basket to gather firewood. A lion started up before him with a roar — and the frightened man ran, stumbled, and tumbled headlong into a deep pit.\n\nDown tumbled the lion after him. Then a falcon, chasing a mouse, and the mouse, fleeing the falcon — all four fell into the pit together and landed in a heap at the bottom. For a moment they eyed one another hungrily in the dark.\n\nBut the lion spoke, for even lions can be wise. “We are comrades in misfortune now,” he said. “While we share this trouble, let no one harm another.” So the lion, the falcon, the mouse, and the man sat quietly together and waited.\n\nBy good fortune a hunter, searching for gazelles, came to the edge of the pit and peered down. One by one he lowered his rope and drew them out. The lion climbed out first and touched the hunter’s feet in thanks. “I shall prove grateful to you,” said the lion. “But I warn you — do not draw out that black-headed man. He is one who forgets a kindness.”\n\nThe hunter was kind to all living things, so he drew the man out too, and they all went their separate ways. From time to time the rescued man came to visit the hunter’s hut, and the hunter always welcomed him gladly.\n\nOne day the lion, having brought down a fat gazelle, dragged it to the hunter’s door and laid it there in thanks. And the falcon, flying over the king’s park, saw the queen’s golden ornaments lying unwatched while the ladies bathed — and carried them off to lay them, glittering, at the hunter’s feet.\n\nThe ungrateful man saw the queen’s ornaments in the hunter’s hut, and envy filled his heart. He ran to the palace and told the king that the hunter had stolen them. The king’s guards seized the hunter, and though he told the honest truth, he was cast into prison.\n\nThe little mouse heard of it and ran to her friend the snake. “Our friend is in prison through that ungrateful man,” she squeaked. “Will you help?” “I will give the king a tiny nip on the hand,” said the snake, “and I will teach you the healing words and the cool remedy that will make him well.”\n\nThat evening, as the king walked in his garden, the snake gave him the tiniest nip. The king fell ill, and none of the royal physicians could help him. Then the hunter was brought from his prison, and he laid the cool remedy on the king’s hand and spoke the healing words — and the king was well at once.\n\nThe king freed the hunter with many apologies and loaded him with gifts, and the ungrateful man was sent away in disgrace. And from that day on, the lion, the falcon, the mouse, and the snake were the hunter’s dearest friends — for the grateful never forget.",
+  "script_original": null,
+  "original_language_name": null,
+  "alternate_title": null,
+  "script_alternate": null,
+  "alternate_language_name": null,
+  "alternate_language_code": null,
+  "alternate_note": null,
+  "script_original_note": null
+ },
+ {
+  "id": "could-always-be-worse",
+  "title": "It Could Always Be Worse",
+  "region": "Jewish",
+  "attribution": "Yiddish · Jewish folktale",
+  "subtitle": "a Yiddish folktale about a crowded hut and a rabbi’s strange advice",
+  "moral": "Granny’s whisper: Gratitude is looking at what you have with fresh eyes.",
+  "image": "assets/could-always-be-worse.webp",
+  "languages": [
+   "en"
+  ],
+  "script_en": "In a little village in the old country, there lived a poor man with his wife, his six children, and his old mother — eight people crowded into one small hut with a single room.\n\nFrom morning till night the hut buzzed like a beehive in a storm. The children squabbled, the baby wailed, the grandmother clucked over everyone, and the poor man’s wife sighed as she stirred the thin soup. The poor man could not think, could not rest, could not hear himself speak.\n\nAt last he could bear it no longer. He ran to the rabbi, the wisest man in the village. “Rabbi, Rabbi!” he cried. “My hut is too small and my family too loud! Tell me what to do!”\n\nThe rabbi stroked his long beard and thought. “Tell me,” he said at last, “do you keep chickens?” “Yes, Rabbi, a few.” “Then go home,” said the rabbi, “and bring the chickens into the hut.”\n\nThe poor man stared. “Into the hut, Rabbi?” “Into the hut,” said the rabbi firmly. So the man obeyed. The chickens flapped and squawked and laid an egg in the soup pot, and the noise in the hut doubled.\n\nThe man ran back, tearing his hair. “Rabbi, it is worse! Much worse!” The rabbi stroked his beard again. “Do you keep a goat?” “Yes, Rabbi.” “Bring the goat into the hut.”\n\nThe goat ate the curtains, butted the children, climbed onto the table, and tried to sleep in the bed. The poor man wept. “Rabbi, you are ruining me!” “Patience,” said the rabbi. “Do you keep a cow?” The man’s eyes grew round. “Yes, Rabbi — but surely—” “Bring the cow into the hut.”\n\nThe cow filled the whole hut. No one could turn around without stepping on somebody, and beside the lowing and the stamping, the children’s squabbles were nothing at all. The poor man sat down in the middle of it all and howled.\n\nThen the rabbi smiled a small, wise smile. “Now,” he said, “take them all out. The chickens, the goat, the cow — out, out, out!”\n\nThe poor man led the animals back to the yard one by one. Then he stepped into his hut — and oh! It was so quiet, so spacious, so peaceful. The children played happily in the corner, his wife sang as she stirred the soup, and his old mother smiled by the fire.\n\nHe ran to the rabbi with tears of joy running down his cheeks. “Rabbi, my hut is a palace! It is the finest house in the world!” The rabbi nodded. “You see?” he said. “It could always be worse. And now you know how good ‘good’ truly is.”\n\nAnd from that day on, whenever the children squabbled or the baby wailed, the poor man would just smile and say, “It could always be worse!” — and the whole family would laugh together.",
+  "script_original": null,
+  "original_language_name": null,
+  "alternate_title": null,
+  "script_alternate": null,
+  "alternate_language_name": null,
+  "alternate_language_code": null,
+  "alternate_note": null,
+  "script_original_note": null
+ },
+ {
+  "id": "mariang-makiling",
+  "title": "Mariang Makiling, Guardian of the Mountain",
+  "region": "Philippines",
+  "attribution": "Philippines · Filipino legend",
+  "subtitle": "a Filipino legend of the gentle guardian of Mount Makiling",
+  "moral": "Granny’s whisper: A gift is a circle — it must come back around.",
+  "image": "assets/mariang-makiling.webp",
+  "languages": [
+   "en"
+  ],
+  "script_en": "In the Philippines, between the provinces of Laguna and Batangas, rises a mountain called Makiling. Look at its long ridge from far away, and you will see the shape of a beautiful woman lying asleep — and the old people will tell you that is no accident.\n\nFor the mountain is guarded by Mariang Makiling, a diwata — a fairy maiden — sent long ago by Bathala, the great god, to watch over the forests and to help the people who live in the mountain’s shadow.\n\nShe is tall and graceful, with long black hair and eyes like deep water. When a great storm has bent the trees and muddied the rivers, she walks the mountain paths, and where she passes, the trees stand straight again and the waters run clear. Around her flutter the tiny lambana, the winged fairies of the forest, like sparks of light. The deer come down to drink, and the wild orchids open their faces to her as she passes.\n\nMariang Makiling loves the poor villagers best of all. When a family had a wedding or a feast and owned no fine clothes, she would lend them her own shimmering garments and jewels — asking only that everything be returned, with a small white pullet, a young hen, as thanks.\n\nTo a kind woodcutter she once gave a bundle of ginger to carry home; when he unwrapped it, the ginger had turned to solid gold. But she never let hunters take more than they needed, and if they were cruel to the forest creatures, she would tangle their paths until they were lost among the thorns — though she never harmed them the way they harmed the animals.\n\nThe villagers loved her, and for a long time every borrowed necklace came back, every lent gown was returned, each with the little white hen besides. The mountain and the villages lived like good neighbors.\n\nBut as the years passed, some borrowers grew careless, and some grew greedy. The jewels stopped coming back. The dresses were kept and never returned. Mariang Makiling waited, and hoped — and at last she sighed, and withdrew deep into the forest, where no borrower could follow.\n\nShe appears no more at weddings, and no one borrows her jewels now. But she has not left her mountain. It still shelters the villages from the typhoon winds; its springs still run sweet and cool; and the old people say that if you keep your promises and return what you borrow, her blessings will still find you.\n\nSo when the children of the villages look up at the sleeping lady of the mountain, their grandparents tell them: be honest, be kind, and keep your word — and the guardian of Makiling will always be watching over you.",
+  "script_original": null,
+  "original_language_name": null,
+  "alternate_title": "Mariang Makiling",
+  "script_alternate": "Mariang Makiling\n\nOriginal English retelling after the legend of Mariang Makiling, guardian of Mount Makiling, as retold by José Rizal in La Solidaridad (1890). The Mariang Makiling title is the genuine Filipino title; this retelling is presented in English rather than offering an unverified Filipino translation. A full Filipino text has not been invented.\n\nOriginal English retelling after the legend of Mariang Makiling, guardian of Mount Makiling, as retold by José Rizal in La Solidaridad (1890). A full Filipino text has not been invented.",
+  "alternate_language_name": "English",
+  "alternate_language_code": "en",
+  "alternate_note": "Original Filipino title shown; English retelling as published (‘Filipino title · English telling’)",
+  "script_original_note": "This Filipino legend is presented in English only. No Filipino text has been invented; the genuine Filipino title is shown above."
  }
 ]
